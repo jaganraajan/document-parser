@@ -1,0 +1,11 @@
+numpy
+pandas
+PyPDF2
+scikit-learn
+pinecone-client
+openai
+fastapi
+uvicorn
+pydantic
+pytest
+loguru

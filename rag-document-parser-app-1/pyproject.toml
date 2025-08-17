@@ -1,0 +1,16 @@
+[tool]
+name = "rag-document-parser-app"
+version = "0.1.0"
+description = "A document parser application for RAG expertise."
+authors = ["Your Name <your.email@example.com>"]
+license = "MIT"
+
+[dependencies]
+# Add your project dependencies here
+# Example:
+# requests = "^2.25.1"
+# numpy = "^1.21.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
